@@ -217,7 +217,7 @@ int main() {
 
         delete shop;
 
-        cout << "\nEid Mubarak! Thank you for shopping.\n";
+        cout << "\nThank you for shopping.\n";
     }
     catch (const char* errorMessage) {
         // Exception handling: display errors instead of crashing.
